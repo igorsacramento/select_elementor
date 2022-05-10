@@ -1,0 +1,39 @@
+.is-d-flex {
+  display: flex;
+}
+
+.is-direction-row {
+  flex-direction: row;
+}
+
+.is-direction-column {
+  flex-direction: column;
+}
+
+.is-align-center {
+  align-items: center;
+}
+
+.is-align-start {
+  align-items: flex-start;
+}
+
+.is-align-end {
+  align-items: flex-end;
+}
+
+.is-j-content-center {
+  justify-content: center;
+}
+
+.is-j-content-left {
+  justify-content: flex-start;
+}
+
+.is-j-content-rigth {
+  justify-content: flex-end;
+}
+
+.button-class {
+  transition: 0.3s;
+}
